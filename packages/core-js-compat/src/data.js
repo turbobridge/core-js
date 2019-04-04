@@ -1326,6 +1326,8 @@ module.exports = {
   },
   'esnext.symbol.pattern-match': {
   },
+  'esnext.symbol.replace-all': {
+  },
   'esnext.weak-map.delete-all': {
   },
   'esnext.weak-map.from': {
